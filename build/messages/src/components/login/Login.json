@@ -1,0 +1,14 @@
+[
+  {
+    "id": "login.remember_me",
+    "defaultMessage": "Remember Me?"
+  },
+  {
+    "id": "login.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "login.forgot_password",
+    "defaultMessage": "Forgot password?"
+  }
+]

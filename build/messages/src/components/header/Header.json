@@ -1,0 +1,14 @@
+[
+  {
+    "id": "header.sign_out",
+    "defaultMessage": "Sign Out"
+  },
+  {
+    "id": "header.name",
+    "defaultMessage": "React Boilerplate"
+  },
+  {
+    "id": "header.confirmation",
+    "defaultMessage": "Are you sure you want to logout?"
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "en": {
+        "login.forgot_password": "Forgot password?",
+        "login.login": "Login",
+        "login.remember_me": "Remember Me",
+        "login.username": "username",
+        "login.password": "password",
+        "home.welcome": "Welcome to your React app",
+        "header.name": "React Boilerplate",
+        "header.sign_out": "Sign Out",
+        "header.confirmation": "Are you sure you want to logout?"
+    },
+    "fr": {
+        "login.forgot_password": "mot de passe oublié?",
+        "login.login": "S'identifier",
+        "login.remember_me": "Souviens-toi de moi",
+        "login.username": "Nom d'utilisateur",
+        "login.password": "mot de passe",
+        "home.welcome": "Bienvenue dans votre application React",
+        "header.name": "Réagissez Boilerplate",
+        "header.sign_out": "Déconnexion",
+        "header.confirmation": "Êtes-vous sûr de vouloir vous déconnecter?"
+    }
+}
